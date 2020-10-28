@@ -1,6 +1,6 @@
 # Bookcentre
-E commerce website of books.\\
-Tech stacks:Reactjs,Nodejs,Expressjs,mongodb
+Tech stacks:Reactjs,Nodejs,Expressjs,mongodb.
+E-commerce website of books.
 Functions:
 i.USER:
 1.user signup,
