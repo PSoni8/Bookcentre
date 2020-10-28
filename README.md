@@ -8,7 +8,7 @@ i.USER:
 2.user signin,
 3.user signout,
 4.Update profile,
-5.user dashboard->Home page:products by arrival and sell,Product Search->Shop page:filter using categories and price range,Show related Products as your selected product,Advance search based on category and price range,
+5.user dashboard->Home page:products by arrival and sell,Product Search->Shop page:filter using categories and price range,Show related Products as your selected product,Advance search based on category and price range->Cart Page:Add Products to cart,Total products in cart,increament/decreament quantities,remove product from cart,update Products in cart,total price of cart,payment(Braintree):Paypal+Card (all stored in local storage).
 Product(category,image,name,price,description,quantity,in stock/out of stock,etc..)
 ii.ADMIN:
 1.admin signup,
