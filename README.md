@@ -1,10 +1,9 @@
 # BookCentre
+Full Stack / MERN Stack (Mongodb Express React Node) Powered Ecommerce website. </br>
+It is an E-commerce website to sell and buy new and old books in form of hardcopies and softcopies(ebook) included Registration,Order Management,Payment Gateways,Add Cart and many more features.
 # Tech-stacks
 Client Side - Reactjs,Bootstrap,CSS,HTML </br>
 Server Side - Nodejs,Expressjs,MongoDB </br>
-# Description
-Full Stack / MERN Stack (Mongodb Express React Node) Powered Ecommerce website. </br>
-It is an E-commerce website to sell and buy new and old books in form of hardcopies and softcopies(ebook) included Registration,Order Management,Payment Gateways,Add Cart and many more features.
 # Features 
 Role based access(different access for admin and users),email alert to both admin and user.
 ## For USER
@@ -34,7 +33,7 @@ Orders page: </br>
 User's Purchase History </br>
 track orders status </br>
 Product information like category,image,name,price,description,quantity,in stock/out of stock,etc.
-# ADMIN:
+## For ADMIN:
 admin signup </br>
 admin signin </br>
 admin signout </br>
