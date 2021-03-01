@@ -1,6 +1,6 @@
 # BookCentre
 # Tech-stacks
-i.Client Side:Reactjs,Bootstrap,CSS,HTML \\
+i.Client Side:Reactjs,Bootstrap,CSS,HTML </br>
 ii.Server Side:Nodejs,Expressjs,MongoDB.
 Full Stack / MERN Stack (Mongo Express React Node) Powered Ecommerce website.
 # Description:
