@@ -1,25 +1,49 @@
 # BookCentre
 # Tech-stacks
-i.Client Side:Reactjs,Bootstrap,CSS,HTML </br>
-ii.Server Side:Nodejs,Expressjs,MongoDB.
-Full Stack / MERN Stack (Mongo Express React Node) Powered Ecommerce website.
-# Description:
+Client Side - Reactjs,Bootstrap,CSS,HTML </br>
+Server Side - Nodejs,Expressjs,MongoDB </br>
+# Description
+Full Stack / MERN Stack (Mongodb Express React Node) Powered Ecommerce website. </br>
 It is an E-commerce website to sell and buy new and old books in form of hardcopies and softcopies(ebook) included Registration,Order Management,Payment Gateways,Add Cart and many more features.
-# Features: 
+# Features 
 Role based access(different access for admin and users),email alert to both admin and user.
-# USER:
-1.user signup,
-2.user signin,
-3.user signout,
-4.Update/change profile Info.,
-5.user dashboard->Home page:(User Info.),products by arrival and sell,Product Search->Shop page:filter using categories and price range,Show related Products as your selected product,Advance search based on category and price range->Cart Page:Add Products to cart,Total products in cart,increament/decreament quantities,remove product from cart,update Products in cart,total price of cart,payment(Braintree):Paypal+Card,Delivery Address->Orders page:User's Purchase History,track orders status 
-%Product info:-(category,image,name,price,description,quantity,in stock/out of stock,etc..)%
+## For USER
+user signup </br>
+user signin </br>
+user signout </br>
+update/change profile Informations </br>
+user dashboard </br>
+Home page: </br>
+User Information </br>
+products by arrival and sell </br>
+Product Search </br>
+Shop page: </br>
+filter using categories and price range </br>
+Show related Products as your selected product </br>
+Advance search based on category and price range </br> 
+Cart Page: </br>
+Add Products to cart </br>
+Total products in cart </br>
+increament/decreament quantities </br>
+remove product from cart </br>
+update Products in cart </br>
+total price of cart </br>
+payment(Braintree):Paypal+Card </br>
+Delivery Address </br>
+Orders page: </br>
+User's Purchase History </br>
+track orders status </br>
+Product information like category,image,name,price,description,quantity,in stock/out of stock,etc.
 # ADMIN:
-1.admin signup,
-2.admin signin,
-3.admin signout,
-4.Update profile,
-5.admin dashboard->add/create new categories,add/create new products,Manage products:-update/delete
-6.View orders->total/list of all orders recieved(with time) and its status,user_ID,quantity,product_ID,Order_ID,Payment Details(Price,payment_ID),Address of delivery,update status of order etc..
+admin signup </br>
+admin signin </br>
+admin signout </br>
+Update profile </br>
+admin dashboard : </br>
+add/create new categories </br>
+add/create new products </br>
+Manage products:-update/delete </br>
+View orders detail: </br>
+total/list of all orders recieved(with time) and its status,user_ID,quantity,product_ID,Order_ID,Payment Details(Price,payment_ID),Address of delivery,update status of order etc.</br>
 
 
