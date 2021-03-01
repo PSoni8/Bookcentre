@@ -3,7 +3,9 @@ Full Stack / MERN Stack (Mongodb Express React Node) Powered Ecommerce website. 
 It is an E-commerce website to sell and buy new and old books in form of hardcopies and softcopies(ebook) included Registration,Order Management,Payment Gateways,Add Cart and many more features.
 # Tech-stacks
 Client Side - Reactjs,Bootstrap,CSS,HTML </br>
-Server Side - Nodejs,Expressjs,MongoDB </br>
+Server Side - Nodejs,Expressjs(npm) </br>
+Database - MongoDB </br>
+DevOps - Github,VS Code,Postman
 # Features 
 Role based access(different access for admin and users),email alert to both admin and user.
 ## For USER
